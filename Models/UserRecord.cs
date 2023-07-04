@@ -1,6 +1,6 @@
-﻿using BudgetTracker.Core.Modules;
+﻿using BudgetTrackerApi.Core.Modules;
 
-namespace BudgetTracker.Models
+namespace BudgetTrackerApi.Models
 {
     public class UserRecord : ModelBase
     {

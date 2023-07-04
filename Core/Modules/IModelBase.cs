@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace BudgetTracker.Core.Modules
+namespace BudgetTrackerApi.Core.Modules
 {
     public interface IModelBase
     {

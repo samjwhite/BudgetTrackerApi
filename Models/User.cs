@@ -1,8 +1,7 @@
-﻿using System.ComponentModel.DataAnnotations;
-using BudgetTracker.Core.Modules;
+﻿using BudgetTrackerApi.Core.Modules;
 using Microsoft.AspNetCore.Identity;
 
-namespace BudgetTracker.Models
+namespace BudgetTrackerApi.Models
 {
     public class User : IdentityUser<Guid>, IModelBase
     {

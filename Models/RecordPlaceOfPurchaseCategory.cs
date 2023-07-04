@@ -1,8 +1,8 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
-using System.ComponentModel.DataAnnotations;
-using BudgetTracker.Core.Modules;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using BudgetTrackerApi.Core.Modules;
 
-namespace BudgetTracker.Models
+namespace BudgetTrackerApi.Models
 {
     public class RecordPlaceOfPurchaseCategory : ModelBase
     {

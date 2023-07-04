@@ -1,10 +1,9 @@
-﻿using BudgetTracker.Data;
-using BudgetTracker.Models;
-using Microsoft.AspNetCore.Http;
+﻿using BudgetTrackerApi.Data;
+using BudgetTrackerApi.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace BudgetTracker.Controllers
+namespace BudgetTrackerApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

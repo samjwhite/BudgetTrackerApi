@@ -1,7 +1,7 @@
-﻿using BudgetTracker.Models;
+﻿using BudgetTrackerApi.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace BudgetTracker.Data
+namespace BudgetTrackerApi.Data
 {
     public class BudgetTrackerDbContext : DbContext
     {
